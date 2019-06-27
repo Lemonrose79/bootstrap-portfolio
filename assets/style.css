@@ -6,22 +6,34 @@ h1 {
     position: relative;
     height: 45px;
     top:0;
-
+    display:inline;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
-    background-image
+    background: url("../images/papyrus.png");
 }
  row1{
      /* Do you need this??? */
  }
 
 .navfloat-left{
-    float: left;
-    list-style-type: none;
+    /* float: left; */
+    /* list-style-type: none; */
+    display:inline;
 }
 
+h2 {
+    display:inline;
+    background-color: teal;
+    color:white;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    height: 45px;
+    top:0;
+
+}
 .footer {
     width: 100%;
     text-align: center;
@@ -34,7 +46,8 @@ body {
     border-color: #4aaaa5;
     border-width: .5em;
 }
-h2 {
-    border-bottom: 3em;
-    color: teal;
+.image{
+    position: relative;
+    text-align: center; 
 }
+
