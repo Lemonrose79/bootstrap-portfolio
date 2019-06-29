@@ -28,15 +28,6 @@ h1, h2,h3 {
 }
 
 
-    /* background-color: teal;
-    color:white;
-    width: 100%;
-    text-align: center;
-    position: relative;
-    height: 45px;
-    top:0;
-    display:inline; */
-
     h2,h3 {
         font-size: 22px;
 }
@@ -162,4 +153,20 @@ h2{
 }
 /* portfolio */
 
+.form-group{
+    margin-bottom:20px;
+
+}
+contact-form{
+    margin-bottom:20px;
+}
+
+.work{
+    position:relative;
+    float:left;
+    width:274px;
+    margin:20px 0 25px;
+    overflow:auto;
+    
+}
 
